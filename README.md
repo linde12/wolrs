@@ -1,6 +1,8 @@
 wolrs
 ====
 
+[![Build Status](https://travis-ci.org/linde12/wolrs.svg?branch=master)](https://travis-ci.org/linde12/wolrs)
+
 A Rust library for constructing WakeOnLAN packets.
 
 ## Example
