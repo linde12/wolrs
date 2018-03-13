@@ -13,6 +13,6 @@ use wolrs::create_magic_packet;
 
 fn main() {
   let packet = create_magic_packet("01:02:03:0A:0B:0F");
-	println!("{:?}", &packet[..]);
+  println!("{:?}", &packet[..]);
 }
 ```
