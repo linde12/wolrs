@@ -1,0 +1,6 @@
+[package]
+name = "wolrs"
+version = "1.0.0"
+authors = ["linde12 <lindeoscar@gmail.com>"]
+
+[dependencies]
